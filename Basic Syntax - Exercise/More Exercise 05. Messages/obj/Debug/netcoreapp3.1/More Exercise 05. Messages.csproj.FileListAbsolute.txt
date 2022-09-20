@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 05. Messages\bin\Debug\netcoreapp3.1\More Exercise 05. Messages.exe
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 05. Messages\bin\Debug\netcoreapp3.1\More Exercise 05. Messages.deps.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 05. Messages\bin\Debug\netcoreapp3.1\More Exercise 05. Messages.runtimeconfig.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 05. Messages\bin\Debug\netcoreapp3.1\More Exercise 05. Messages.runtimeconfig.dev.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 05. Messages\bin\Debug\netcoreapp3.1\More Exercise 05. Messages.dll
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 05. Messages\bin\Debug\netcoreapp3.1\More Exercise 05. Messages.pdb
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 05. Messages\obj\Debug\netcoreapp3.1\More Exercise 05. Messages.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 05. Messages\obj\Debug\netcoreapp3.1\More Exercise 05. Messages.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 05. Messages\obj\Debug\netcoreapp3.1\More Exercise 05. Messages.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 05. Messages\obj\Debug\netcoreapp3.1\More Exercise 05. Messages.AssemblyInfo.cs
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 05. Messages\obj\Debug\netcoreapp3.1\More Exercise 05. Messages.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 05. Messages\obj\Debug\netcoreapp3.1\More Exercise 05. Messages.dll
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 05. Messages\obj\Debug\netcoreapp3.1\More Exercise 05. Messages.pdb
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 05. Messages\obj\Debug\netcoreapp3.1\More Exercise 05. Messages.genruntimeconfig.cache

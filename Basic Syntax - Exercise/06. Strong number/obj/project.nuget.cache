@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sL36DcRlIcvjYXPVV66o1GNNbzD3YTY5mhZWDrx5CQ+3BID3J2bEdd7xI1ANyhDpF7Vyb4AFc2bfLz8D+pF/DQ==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\6.Exercise Basic Syntax, Conditional Statements and Loops\\06. Strong number\\06. Strong number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

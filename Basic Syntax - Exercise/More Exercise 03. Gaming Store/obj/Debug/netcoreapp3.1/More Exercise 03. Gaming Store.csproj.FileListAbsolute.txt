@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 03. Gaming Store\obj\Debug\netcoreapp3.1\More Exercise 03. Gaming Store.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 03. Gaming Store\obj\Debug\netcoreapp3.1\More Exercise 03. Gaming Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 03. Gaming Store\obj\Debug\netcoreapp3.1\More Exercise 03. Gaming Store.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 03. Gaming Store\obj\Debug\netcoreapp3.1\More Exercise 03. Gaming Store.AssemblyInfo.cs
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 03. Gaming Store\obj\Debug\netcoreapp3.1\More Exercise 03. Gaming Store.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 03. Gaming Store\bin\Debug\netcoreapp3.1\More Exercise 03. Gaming Store.exe
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 03. Gaming Store\bin\Debug\netcoreapp3.1\More Exercise 03. Gaming Store.deps.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 03. Gaming Store\bin\Debug\netcoreapp3.1\More Exercise 03. Gaming Store.runtimeconfig.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 03. Gaming Store\bin\Debug\netcoreapp3.1\More Exercise 03. Gaming Store.runtimeconfig.dev.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 03. Gaming Store\bin\Debug\netcoreapp3.1\More Exercise 03. Gaming Store.dll
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 03. Gaming Store\bin\Debug\netcoreapp3.1\More Exercise 03. Gaming Store.pdb
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 03. Gaming Store\obj\Debug\netcoreapp3.1\More Exercise 03. Gaming Store.dll
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 03. Gaming Store\obj\Debug\netcoreapp3.1\More Exercise 03. Gaming Store.pdb
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 03. Gaming Store\obj\Debug\netcoreapp3.1\More Exercise 03. Gaming Store.genruntimeconfig.cache

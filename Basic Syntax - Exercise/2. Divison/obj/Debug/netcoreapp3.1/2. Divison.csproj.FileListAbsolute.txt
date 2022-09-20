@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\2. Divison\bin\Debug\netcoreapp3.1\2. Divison.exe
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\2. Divison\bin\Debug\netcoreapp3.1\2. Divison.deps.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\2. Divison\bin\Debug\netcoreapp3.1\2. Divison.runtimeconfig.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\2. Divison\bin\Debug\netcoreapp3.1\2. Divison.runtimeconfig.dev.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\2. Divison\bin\Debug\netcoreapp3.1\2. Divison.dll
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\2. Divison\bin\Debug\netcoreapp3.1\2. Divison.pdb
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\2. Divison\obj\Debug\netcoreapp3.1\2. Divison.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\2. Divison\obj\Debug\netcoreapp3.1\2. Divison.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\2. Divison\obj\Debug\netcoreapp3.1\2. Divison.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\2. Divison\obj\Debug\netcoreapp3.1\2. Divison.AssemblyInfo.cs
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\2. Divison\obj\Debug\netcoreapp3.1\2. Divison.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\2. Divison\obj\Debug\netcoreapp3.1\2. Divison.dll
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\2. Divison\obj\Debug\netcoreapp3.1\2. Divison.pdb
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\2. Divison\obj\Debug\netcoreapp3.1\2. Divison.genruntimeconfig.cache

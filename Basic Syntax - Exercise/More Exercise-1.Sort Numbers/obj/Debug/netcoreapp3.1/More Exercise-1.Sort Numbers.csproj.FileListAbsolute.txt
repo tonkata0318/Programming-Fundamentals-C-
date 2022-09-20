@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise-1.Sort Numbers\bin\Debug\netcoreapp3.1\More Exercise-1.Sort Numbers.exe
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise-1.Sort Numbers\bin\Debug\netcoreapp3.1\More Exercise-1.Sort Numbers.deps.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise-1.Sort Numbers\bin\Debug\netcoreapp3.1\More Exercise-1.Sort Numbers.runtimeconfig.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise-1.Sort Numbers\bin\Debug\netcoreapp3.1\More Exercise-1.Sort Numbers.runtimeconfig.dev.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise-1.Sort Numbers\bin\Debug\netcoreapp3.1\More Exercise-1.Sort Numbers.dll
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise-1.Sort Numbers\bin\Debug\netcoreapp3.1\More Exercise-1.Sort Numbers.pdb
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise-1.Sort Numbers\obj\Debug\netcoreapp3.1\More Exercise-1.Sort Numbers.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise-1.Sort Numbers\obj\Debug\netcoreapp3.1\More Exercise-1.Sort Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise-1.Sort Numbers\obj\Debug\netcoreapp3.1\More Exercise-1.Sort Numbers.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise-1.Sort Numbers\obj\Debug\netcoreapp3.1\More Exercise-1.Sort Numbers.AssemblyInfo.cs
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise-1.Sort Numbers\obj\Debug\netcoreapp3.1\More Exercise-1.Sort Numbers.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise-1.Sort Numbers\obj\Debug\netcoreapp3.1\More Exercise-1.Sort Numbers.dll
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise-1.Sort Numbers\obj\Debug\netcoreapp3.1\More Exercise-1.Sort Numbers.pdb
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise-1.Sort Numbers\obj\Debug\netcoreapp3.1\More Exercise-1.Sort Numbers.genruntimeconfig.cache

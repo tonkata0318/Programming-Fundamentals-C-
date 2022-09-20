@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 2 English Name\bin\Debug\netcoreapp3.1\More Exercise 2 English Name.exe
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 2 English Name\bin\Debug\netcoreapp3.1\More Exercise 2 English Name.deps.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 2 English Name\bin\Debug\netcoreapp3.1\More Exercise 2 English Name.runtimeconfig.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 2 English Name\bin\Debug\netcoreapp3.1\More Exercise 2 English Name.runtimeconfig.dev.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 2 English Name\bin\Debug\netcoreapp3.1\More Exercise 2 English Name.dll
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 2 English Name\bin\Debug\netcoreapp3.1\More Exercise 2 English Name.pdb
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 2 English Name\obj\Debug\netcoreapp3.1\More Exercise 2 English Name.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 2 English Name\obj\Debug\netcoreapp3.1\More Exercise 2 English Name.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 2 English Name\obj\Debug\netcoreapp3.1\More Exercise 2 English Name.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 2 English Name\obj\Debug\netcoreapp3.1\More Exercise 2 English Name.AssemblyInfo.cs
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 2 English Name\obj\Debug\netcoreapp3.1\More Exercise 2 English Name.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 2 English Name\obj\Debug\netcoreapp3.1\More Exercise 2 English Name.dll
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 2 English Name\obj\Debug\netcoreapp3.1\More Exercise 2 English Name.pdb
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\More Exercise 2 English Name\obj\Debug\netcoreapp3.1\More Exercise 2 English Name.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HrMEEBbTD17g/eqEgauBLNxm7eBjArEq1+nO3FGsto53DFNC6xowtcbP13v+nO99Fq7ooqy4Ahz9Up3PkvijLw==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\6.Exercise Basic Syntax, Conditional Statements and Loops\\More Exercise 05. Messages\\More Exercise 05. Messages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

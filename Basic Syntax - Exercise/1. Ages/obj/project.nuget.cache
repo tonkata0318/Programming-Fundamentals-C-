@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e3Fg1vMK/UZVAAGm1OLlFlBQusWzXTwAm90ZyqhjPmL703K6ciyY8vBQ4EaM/2IvXkZ/QwhX/H1t4iZZMssGpA==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\6.Exercise Basic Syntax, Conditional Statements and Loops\\1. Ages\\1. Ages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

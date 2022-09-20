@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2CK+1mH2eRpBvbCjasiKs9/yEO20Ai72mbnsd+fTz1cqKZnE1pNSRig+OpKTGXB+n6dUOJ10czA6/1FMmx40vw==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\6.Exercise Basic Syntax, Conditional Statements and Loops\\More Exercise-1.Sort Numbers\\More Exercise-1.Sort Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

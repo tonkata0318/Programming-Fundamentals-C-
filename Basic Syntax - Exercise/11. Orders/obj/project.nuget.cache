@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qtZ7GfZS3/of+9fmuYPgfQPeQxTnPuV5rknjD+ywj2VcRkDm6H6cmR7FZBAZPdmFaJdXeW0HDzziVA+zSEbK4w==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\6.Exercise Basic Syntax, Conditional Statements and Loops\\11. Orders\\11. Orders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\1. Ages\bin\Debug\netcoreapp3.1\1. Ages.exe
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\1. Ages\bin\Debug\netcoreapp3.1\1. Ages.deps.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\1. Ages\bin\Debug\netcoreapp3.1\1. Ages.runtimeconfig.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\1. Ages\bin\Debug\netcoreapp3.1\1. Ages.runtimeconfig.dev.json
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\1. Ages\bin\Debug\netcoreapp3.1\1. Ages.dll
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\1. Ages\bin\Debug\netcoreapp3.1\1. Ages.pdb
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\1. Ages\obj\Debug\netcoreapp3.1\1. Ages.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\1. Ages\obj\Debug\netcoreapp3.1\1. Ages.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\1. Ages\obj\Debug\netcoreapp3.1\1. Ages.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\1. Ages\obj\Debug\netcoreapp3.1\1. Ages.AssemblyInfo.cs
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\1. Ages\obj\Debug\netcoreapp3.1\1. Ages.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\1. Ages\obj\Debug\netcoreapp3.1\1. Ages.dll
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\1. Ages\obj\Debug\netcoreapp3.1\1. Ages.pdb
+D:\programing fundamentals on c#\6.Exercise Basic Syntax, Conditional Statements and Loops\1. Ages\obj\Debug\netcoreapp3.1\1. Ages.genruntimeconfig.cache

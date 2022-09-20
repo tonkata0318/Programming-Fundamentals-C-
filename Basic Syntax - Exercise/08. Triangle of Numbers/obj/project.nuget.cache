@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BBv0PTCxVKxPwcOmslrrNhlsuFvvuc22apIkCVj+6mBBHCHK/90NukbyzrHiFxKtUTXTuj3bn+q7Vp3B8dc4gw==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\6.Exercise Basic Syntax, Conditional Statements and Loops\\08. Triangle of Numbers\\08. Triangle of Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

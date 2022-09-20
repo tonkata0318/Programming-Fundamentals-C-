@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G9U+ny3/PMoB8MYulYADLpJFdPJXVHWHvCzxC0QpMV08741ZWfbD7s1+1lUY3ogmGD5Cqg/a7ANzEqL9zl2G4A==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\6.Exercise Basic Syntax, Conditional Statements and Loops\\05. Login\\05. Login.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
