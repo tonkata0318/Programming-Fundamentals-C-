@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sTbADzgyNNU+x9sDcl9cUxwrK//jVgdCWdDDbhxIe0QpJJpdMX6T6eaxAu7R4fP32pyNJoTIfBAHsgvDdayspQ==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\9.Exercise  Data Types and Variables\\04. Sum of Chars\\04. Sum of Chars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

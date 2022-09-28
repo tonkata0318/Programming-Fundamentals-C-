@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\8. Data Types and Variables\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.exe
+D:\programing fundamentals on c#\8. Data Types and Variables\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.deps.json
+D:\programing fundamentals on c#\8. Data Types and Variables\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.runtimeconfig.json
+D:\programing fundamentals on c#\8. Data Types and Variables\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.runtimeconfig.dev.json
+D:\programing fundamentals on c#\8. Data Types and Variables\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.dll
+D:\programing fundamentals on c#\8. Data Types and Variables\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.pdb
+D:\programing fundamentals on c#\8. Data Types and Variables\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\8. Data Types and Variables\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.AssemblyInfo.cs
+D:\programing fundamentals on c#\8. Data Types and Variables\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.dll
+D:\programing fundamentals on c#\8. Data Types and Variables\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.pdb
+D:\programing fundamentals on c#\8. Data Types and Variables\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.genruntimeconfig.cache

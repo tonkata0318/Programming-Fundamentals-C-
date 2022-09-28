@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.exe
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.deps.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.runtimeconfig.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.runtimeconfig.dev.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.dll
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.pdb
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.AssemblyInfo.cs
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.dll
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.pdb
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.genruntimeconfig.cache

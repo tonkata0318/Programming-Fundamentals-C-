@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pU7+cviG9K4Rp6b7OQjfG7h/y+D6J4cL2s0Mb3L1ah59+Q+V/65zPPbHA9735+6FzX/TNJC2iBTQGBZt7byqvg==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\8. Data Types and Variables\\03. Exact Sum of Real Numbers\\03. Exact Sum of Real Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

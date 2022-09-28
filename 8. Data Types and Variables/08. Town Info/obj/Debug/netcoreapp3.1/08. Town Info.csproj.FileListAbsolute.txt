@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\8. Data Types and Variables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.exe
+D:\programing fundamentals on c#\8. Data Types and Variables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.deps.json
+D:\programing fundamentals on c#\8. Data Types and Variables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.runtimeconfig.json
+D:\programing fundamentals on c#\8. Data Types and Variables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.runtimeconfig.dev.json
+D:\programing fundamentals on c#\8. Data Types and Variables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.dll
+D:\programing fundamentals on c#\8. Data Types and Variables\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.pdb
+D:\programing fundamentals on c#\8. Data Types and Variables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\8. Data Types and Variables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.AssemblyInfo.cs
+D:\programing fundamentals on c#\8. Data Types and Variables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.dll
+D:\programing fundamentals on c#\8. Data Types and Variables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.pdb
+D:\programing fundamentals on c#\8. Data Types and Variables\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.genruntimeconfig.cache

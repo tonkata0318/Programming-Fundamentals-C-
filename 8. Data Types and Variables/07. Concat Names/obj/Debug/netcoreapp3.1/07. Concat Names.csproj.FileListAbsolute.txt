@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\8. Data Types and Variables\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.exe
+D:\programing fundamentals on c#\8. Data Types and Variables\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.deps.json
+D:\programing fundamentals on c#\8. Data Types and Variables\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.runtimeconfig.json
+D:\programing fundamentals on c#\8. Data Types and Variables\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.runtimeconfig.dev.json
+D:\programing fundamentals on c#\8. Data Types and Variables\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.dll
+D:\programing fundamentals on c#\8. Data Types and Variables\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.pdb
+D:\programing fundamentals on c#\8. Data Types and Variables\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\8. Data Types and Variables\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.AssemblyInfo.cs
+D:\programing fundamentals on c#\8. Data Types and Variables\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.dll
+D:\programing fundamentals on c#\8. Data Types and Variables\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.pdb
+D:\programing fundamentals on c#\8. Data Types and Variables\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.genruntimeconfig.cache

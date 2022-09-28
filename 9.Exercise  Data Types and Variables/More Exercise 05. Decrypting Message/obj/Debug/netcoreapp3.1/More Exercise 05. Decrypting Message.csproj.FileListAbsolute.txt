@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 05. Decrypting Message\bin\Debug\netcoreapp3.1\More Exercise 05. Decrypting Message.exe
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 05. Decrypting Message\bin\Debug\netcoreapp3.1\More Exercise 05. Decrypting Message.deps.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 05. Decrypting Message\bin\Debug\netcoreapp3.1\More Exercise 05. Decrypting Message.runtimeconfig.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 05. Decrypting Message\bin\Debug\netcoreapp3.1\More Exercise 05. Decrypting Message.runtimeconfig.dev.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 05. Decrypting Message\bin\Debug\netcoreapp3.1\More Exercise 05. Decrypting Message.dll
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 05. Decrypting Message\bin\Debug\netcoreapp3.1\More Exercise 05. Decrypting Message.pdb
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 05. Decrypting Message\obj\Debug\netcoreapp3.1\More Exercise 05. Decrypting Message.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 05. Decrypting Message\obj\Debug\netcoreapp3.1\More Exercise 05. Decrypting Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 05. Decrypting Message\obj\Debug\netcoreapp3.1\More Exercise 05. Decrypting Message.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 05. Decrypting Message\obj\Debug\netcoreapp3.1\More Exercise 05. Decrypting Message.AssemblyInfo.cs
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 05. Decrypting Message\obj\Debug\netcoreapp3.1\More Exercise 05. Decrypting Message.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 05. Decrypting Message\obj\Debug\netcoreapp3.1\More Exercise 05. Decrypting Message.dll
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 05. Decrypting Message\obj\Debug\netcoreapp3.1\More Exercise 05. Decrypting Message.pdb
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 05. Decrypting Message\obj\Debug\netcoreapp3.1\More Exercise 05. Decrypting Message.genruntimeconfig.cache

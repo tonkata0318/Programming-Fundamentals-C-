@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mnTMI7AQ1w//FtpmUaQ8xI3Txh3Dc3w/zczALmrPEJ9uDBGUvEbB1FVC28NfjnmPZJJZwUyrrGe410130sTXUw==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\9.Exercise  Data Types and Variables\\02. Sum Digits\\02. Sum Digits.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

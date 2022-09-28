@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise\bin\Debug\netcoreapp3.1\More Exercise.exe
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise\bin\Debug\netcoreapp3.1\More Exercise.deps.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise\bin\Debug\netcoreapp3.1\More Exercise.runtimeconfig.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise\bin\Debug\netcoreapp3.1\More Exercise.runtimeconfig.dev.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise\bin\Debug\netcoreapp3.1\More Exercise.dll
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise\bin\Debug\netcoreapp3.1\More Exercise.pdb
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise\obj\Debug\netcoreapp3.1\More Exercise.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise\obj\Debug\netcoreapp3.1\More Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise\obj\Debug\netcoreapp3.1\More Exercise.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise\obj\Debug\netcoreapp3.1\More Exercise.AssemblyInfo.cs
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise\obj\Debug\netcoreapp3.1\More Exercise.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise\obj\Debug\netcoreapp3.1\More Exercise.dll
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise\obj\Debug\netcoreapp3.1\More Exercise.pdb
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise\obj\Debug\netcoreapp3.1\More Exercise.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "More Exercise1. Data Type Finder/1.0.0": {
+        "runtime": {
+          "More Exercise1. Data Type Finder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "More Exercise1. Data Type Finder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

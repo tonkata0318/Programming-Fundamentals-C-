@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PKXBdh1/Xxa2QMJi93Dlu77R7NdBNVw35VhofmfZ1h6aQBwVG256OpNfM00SRlscgdt5dChnW7PAxgTFig9xLw==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\9.Exercise  Data Types and Variables\\08. Beer Kegs\\08. Beer Kegs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

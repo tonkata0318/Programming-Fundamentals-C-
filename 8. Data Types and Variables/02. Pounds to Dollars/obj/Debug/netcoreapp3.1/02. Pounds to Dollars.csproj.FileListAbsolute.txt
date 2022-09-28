@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\8. Data Types and Variables\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.exe
+D:\programing fundamentals on c#\8. Data Types and Variables\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.deps.json
+D:\programing fundamentals on c#\8. Data Types and Variables\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.runtimeconfig.json
+D:\programing fundamentals on c#\8. Data Types and Variables\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.runtimeconfig.dev.json
+D:\programing fundamentals on c#\8. Data Types and Variables\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.dll
+D:\programing fundamentals on c#\8. Data Types and Variables\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.pdb
+D:\programing fundamentals on c#\8. Data Types and Variables\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\8. Data Types and Variables\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.AssemblyInfo.cs
+D:\programing fundamentals on c#\8. Data Types and Variables\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.dll
+D:\programing fundamentals on c#\8. Data Types and Variables\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.pdb
+D:\programing fundamentals on c#\8. Data Types and Variables\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.genruntimeconfig.cache

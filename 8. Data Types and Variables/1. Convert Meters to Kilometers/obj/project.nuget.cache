@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sv6Gdr3EC2w20wi3BXAsaazhTm2Hg0VLwn28oogT5vwctez9NXgwNw2qps3ZeXbXS7IjCE83jsVHQYfHBUWG6A==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\8. Data Types and Variables\\1. Convert Meters to Kilometers\\1. Convert Meters to Kilometers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

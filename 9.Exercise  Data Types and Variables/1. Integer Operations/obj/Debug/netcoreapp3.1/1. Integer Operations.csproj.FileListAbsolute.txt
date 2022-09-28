@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.exe
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.deps.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.runtimeconfig.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.runtimeconfig.dev.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.dll
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.pdb
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.AssemblyInfo.cs
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.dll
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.pdb
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\8. Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.exe
+D:\programing fundamentals on c#\8. Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.deps.json
+D:\programing fundamentals on c#\8. Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.runtimeconfig.json
+D:\programing fundamentals on c#\8. Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.runtimeconfig.dev.json
+D:\programing fundamentals on c#\8. Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.dll
+D:\programing fundamentals on c#\8. Data Types and Variables\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.pdb
+D:\programing fundamentals on c#\8. Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\8. Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.AssemblyInfo.cs
+D:\programing fundamentals on c#\8. Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.dll
+D:\programing fundamentals on c#\8. Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.pdb
+D:\programing fundamentals on c#\8. Data Types and Variables\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 03. Floating Equality\bin\Debug\netcoreapp3.1\More Exercise 03. Floating Equality.exe
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 03. Floating Equality\bin\Debug\netcoreapp3.1\More Exercise 03. Floating Equality.deps.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 03. Floating Equality\bin\Debug\netcoreapp3.1\More Exercise 03. Floating Equality.runtimeconfig.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 03. Floating Equality\bin\Debug\netcoreapp3.1\More Exercise 03. Floating Equality.runtimeconfig.dev.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 03. Floating Equality\bin\Debug\netcoreapp3.1\More Exercise 03. Floating Equality.dll
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 03. Floating Equality\bin\Debug\netcoreapp3.1\More Exercise 03. Floating Equality.pdb
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 03. Floating Equality\obj\Debug\netcoreapp3.1\More Exercise 03. Floating Equality.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 03. Floating Equality\obj\Debug\netcoreapp3.1\More Exercise 03. Floating Equality.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 03. Floating Equality\obj\Debug\netcoreapp3.1\More Exercise 03. Floating Equality.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 03. Floating Equality\obj\Debug\netcoreapp3.1\More Exercise 03. Floating Equality.AssemblyInfo.cs
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 03. Floating Equality\obj\Debug\netcoreapp3.1\More Exercise 03. Floating Equality.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 03. Floating Equality\obj\Debug\netcoreapp3.1\More Exercise 03. Floating Equality.dll
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 03. Floating Equality\obj\Debug\netcoreapp3.1\More Exercise 03. Floating Equality.pdb
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 03. Floating Equality\obj\Debug\netcoreapp3.1\More Exercise 03. Floating Equality.genruntimeconfig.cache

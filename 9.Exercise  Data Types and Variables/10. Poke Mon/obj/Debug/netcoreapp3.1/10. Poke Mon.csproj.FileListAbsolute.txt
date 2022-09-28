@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.exe
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.deps.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.runtimeconfig.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.runtimeconfig.dev.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.dll
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.pdb
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.AssemblyInfo.cs
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.dll
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.pdb
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.genruntimeconfig.cache

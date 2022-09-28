@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pzCpEVelx3G9bgsE3HehwXdwzmarKaqYnOIcNdmfGcoNXEwcORVZDATUosWgofeaBhZJLpaymQtwGHbH/WNj4A==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\9.Exercise  Data Types and Variables\\09. Spice Must Flow\\09. Spice Must Flow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

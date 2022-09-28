@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FWMFf6bksvO2lRIt7FCW8uGg3YNYOShV1AZhio2L6wrNmoAUl2hQG0XZY7pQ/2iZ3Dbb3Z4xKhrAnD/0BBhFyg==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\8. Data Types and Variables\\09. Chars to String\\09. Chars to String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

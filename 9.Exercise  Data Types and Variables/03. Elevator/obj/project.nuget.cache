@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FmlPSMR7d2nHxe3mdaq1eYiJ2ZN1FRmabOCVvrfvizuRGXN/LiH+T8YGYd1Tvor+ofK7mCBwyS1tPJcXHPU6/A==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\9.Exercise  Data Types and Variables\\03. Elevator\\03. Elevator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

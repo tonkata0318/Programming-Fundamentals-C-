@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gKDUbv0lM3j4dfmPcRaODmwAdVQa+pfA708SJQCg0GH3o2ZgjhfItZs8PV/z7zC1UR34qAn/WSeXTr2/u5qs9A==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\9.Exercise  Data Types and Variables\\11. Snowballs\\11. Snowballs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

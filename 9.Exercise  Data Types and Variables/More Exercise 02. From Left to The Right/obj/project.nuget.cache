@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YVOjJssEyTQwhfgLUMIHZtLT56u4cWFN3mnSDwnBRnepScTlXH5LMWd5CoCBpDm/PRO6VEKKmNP8jDof+pY26Q==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\9.Exercise  Data Types and Variables\\More Exercise 02. From Left to The Right\\More Exercise 02. From Left to The Right.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

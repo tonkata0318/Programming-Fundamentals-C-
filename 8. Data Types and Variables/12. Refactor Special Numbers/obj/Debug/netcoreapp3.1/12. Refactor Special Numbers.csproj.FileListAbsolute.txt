@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\8. Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.exe
+D:\programing fundamentals on c#\8. Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.deps.json
+D:\programing fundamentals on c#\8. Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.runtimeconfig.json
+D:\programing fundamentals on c#\8. Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.runtimeconfig.dev.json
+D:\programing fundamentals on c#\8. Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.dll
+D:\programing fundamentals on c#\8. Data Types and Variables\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.pdb
+D:\programing fundamentals on c#\8. Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\8. Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.AssemblyInfo.cs
+D:\programing fundamentals on c#\8. Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.dll
+D:\programing fundamentals on c#\8. Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.pdb
+D:\programing fundamentals on c#\8. Data Types and Variables\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.genruntimeconfig.cache

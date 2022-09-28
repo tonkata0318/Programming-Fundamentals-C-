@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wVNX3sowoaUF5JTkOGoJIp4VV9BGRFDalTJGLGN5LOCF0GNRP5pxjev8Vrc5V1Ce6zi4FRiPDgFXzIqf1RVVug==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\8. Data Types and Variables\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

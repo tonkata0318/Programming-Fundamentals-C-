@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 02. From Left to The Right\bin\Debug\netcoreapp3.1\More Exercise 02. From Left to The Right.exe
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 02. From Left to The Right\bin\Debug\netcoreapp3.1\More Exercise 02. From Left to The Right.deps.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 02. From Left to The Right\bin\Debug\netcoreapp3.1\More Exercise 02. From Left to The Right.runtimeconfig.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 02. From Left to The Right\bin\Debug\netcoreapp3.1\More Exercise 02. From Left to The Right.runtimeconfig.dev.json
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 02. From Left to The Right\bin\Debug\netcoreapp3.1\More Exercise 02. From Left to The Right.dll
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 02. From Left to The Right\bin\Debug\netcoreapp3.1\More Exercise 02. From Left to The Right.pdb
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 02. From Left to The Right\obj\Debug\netcoreapp3.1\More Exercise 02. From Left to The Right.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 02. From Left to The Right\obj\Debug\netcoreapp3.1\More Exercise 02. From Left to The Right.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 02. From Left to The Right\obj\Debug\netcoreapp3.1\More Exercise 02. From Left to The Right.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 02. From Left to The Right\obj\Debug\netcoreapp3.1\More Exercise 02. From Left to The Right.AssemblyInfo.cs
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 02. From Left to The Right\obj\Debug\netcoreapp3.1\More Exercise 02. From Left to The Right.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 02. From Left to The Right\obj\Debug\netcoreapp3.1\More Exercise 02. From Left to The Right.dll
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 02. From Left to The Right\obj\Debug\netcoreapp3.1\More Exercise 02. From Left to The Right.pdb
+D:\programing fundamentals on c#\9.Exercise  Data Types and Variables\More Exercise 02. From Left to The Right\obj\Debug\netcoreapp3.1\More Exercise 02. From Left to The Right.genruntimeconfig.cache

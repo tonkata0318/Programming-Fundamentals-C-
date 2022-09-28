@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hp5U5+NmUD0NsDOozNrDcoCt8RfBNoUGk2JVTkOlf3v1ol1KuXa3BEYXBGEJew0AiHa3I3wa/5MX2tOoRR+/qg==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\8. Data Types and Variables\\05. Special Numbers\\05. Special Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

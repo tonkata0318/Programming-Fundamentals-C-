@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\8. Data Types and Variables\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.exe
+D:\programing fundamentals on c#\8. Data Types and Variables\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.deps.json
+D:\programing fundamentals on c#\8. Data Types and Variables\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.runtimeconfig.json
+D:\programing fundamentals on c#\8. Data Types and Variables\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.runtimeconfig.dev.json
+D:\programing fundamentals on c#\8. Data Types and Variables\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.dll
+D:\programing fundamentals on c#\8. Data Types and Variables\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.pdb
+D:\programing fundamentals on c#\8. Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\8. Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.AssemblyInfo.cs
+D:\programing fundamentals on c#\8. Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.dll
+D:\programing fundamentals on c#\8. Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.pdb
+D:\programing fundamentals on c#\8. Data Types and Variables\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.genruntimeconfig.cache

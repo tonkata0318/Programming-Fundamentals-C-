@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z9IeCXd+6CQoespuUCu22R5SijrXU3pM0gP5KQ1aQ8sLTIMB0nXr3j2hxxdLQvNxfL4nhCFUtis9gmJns1b54w==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\8. Data Types and Variables\\10. Lower or Upper\\10. Lower or Upper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

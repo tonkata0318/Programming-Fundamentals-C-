@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\8. Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.exe
+D:\programing fundamentals on c#\8. Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.deps.json
+D:\programing fundamentals on c#\8. Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.json
+D:\programing fundamentals on c#\8. Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.dev.json
+D:\programing fundamentals on c#\8. Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.dll
+D:\programing fundamentals on c#\8. Data Types and Variables\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.pdb
+D:\programing fundamentals on c#\8. Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\8. Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfo.cs
+D:\programing fundamentals on c#\8. Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\8. Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.dll
+D:\programing fundamentals on c#\8. Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.pdb
+D:\programing fundamentals on c#\8. Data Types and Variables\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.genruntimeconfig.cache
