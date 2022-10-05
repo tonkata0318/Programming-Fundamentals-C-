@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ns44fyyL65qI7MuqT+pTIGOKhrK52dYHzduQd+7fE4j82oXV7avcKHt0X5XfBVqlJX9mRCpM+rRfD5zinF5RJw==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\Exercise Arrays\\More Exercise 04. Fold and Sum\\More Exercise 04. Fold and Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

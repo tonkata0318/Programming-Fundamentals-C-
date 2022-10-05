@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\More Exercise 01. Encrypt, Sort and Print Array.exe
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\More Exercise 01. Encrypt, Sort and Print Array.deps.json
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\More Exercise 01. Encrypt, Sort and Print Array.runtimeconfig.json
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\More Exercise 01. Encrypt, Sort and Print Array.runtimeconfig.dev.json
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\More Exercise 01. Encrypt, Sort and Print Array.dll
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\More Exercise 01. Encrypt, Sort and Print Array.pdb
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\More Exercise 01. Encrypt, Sort and Print Array.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\More Exercise 01. Encrypt, Sort and Print Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\More Exercise 01. Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\More Exercise 01. Encrypt, Sort and Print Array.AssemblyInfo.cs
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\More Exercise 01. Encrypt, Sort and Print Array.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\More Exercise 01. Encrypt, Sort and Print Array.dll
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\More Exercise 01. Encrypt, Sort and Print Array.pdb
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\More Exercise 01. Encrypt, Sort and Print Array.genruntimeconfig.cache

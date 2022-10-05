@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IM9tyG+peji/YA/UJPPhKa+GxdnAo1DPompM1R2C3d/W+65t9XB11PrAEK7g+10xaELGcvh+5XGmM4QgZOJ62w==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\Exercise Arrays\\10. LadyBugs\\10. LadyBugs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

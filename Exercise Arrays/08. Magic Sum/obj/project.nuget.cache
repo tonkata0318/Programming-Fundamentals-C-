@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/+5FiyG1uuK616uOTSwy3g1hb+Sh1RCTOIBL7aTQTgeemq1BuuTeXV2BuIOH7nkoNy6DIzf+ieMAVsM8m7Uf9g==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\Exercise Arrays\\08. Magic Sum\\08. Magic Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

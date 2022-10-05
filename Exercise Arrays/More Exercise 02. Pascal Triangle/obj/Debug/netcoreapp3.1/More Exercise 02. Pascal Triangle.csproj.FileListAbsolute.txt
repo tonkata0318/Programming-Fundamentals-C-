@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 02. Pascal Triangle\bin\Debug\netcoreapp3.1\More Exercise 02. Pascal Triangle.exe
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 02. Pascal Triangle\bin\Debug\netcoreapp3.1\More Exercise 02. Pascal Triangle.deps.json
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 02. Pascal Triangle\bin\Debug\netcoreapp3.1\More Exercise 02. Pascal Triangle.runtimeconfig.json
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 02. Pascal Triangle\bin\Debug\netcoreapp3.1\More Exercise 02. Pascal Triangle.runtimeconfig.dev.json
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 02. Pascal Triangle\bin\Debug\netcoreapp3.1\More Exercise 02. Pascal Triangle.dll
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 02. Pascal Triangle\bin\Debug\netcoreapp3.1\More Exercise 02. Pascal Triangle.pdb
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 02. Pascal Triangle\obj\Debug\netcoreapp3.1\More Exercise 02. Pascal Triangle.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 02. Pascal Triangle\obj\Debug\netcoreapp3.1\More Exercise 02. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 02. Pascal Triangle\obj\Debug\netcoreapp3.1\More Exercise 02. Pascal Triangle.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 02. Pascal Triangle\obj\Debug\netcoreapp3.1\More Exercise 02. Pascal Triangle.AssemblyInfo.cs
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 02. Pascal Triangle\obj\Debug\netcoreapp3.1\More Exercise 02. Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 02. Pascal Triangle\obj\Debug\netcoreapp3.1\More Exercise 02. Pascal Triangle.dll
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 02. Pascal Triangle\obj\Debug\netcoreapp3.1\More Exercise 02. Pascal Triangle.pdb
+D:\programing fundamentals on c#\Exercise Arrays\More Exercise 02. Pascal Triangle\obj\Debug\netcoreapp3.1\More Exercise 02. Pascal Triangle.genruntimeconfig.cache

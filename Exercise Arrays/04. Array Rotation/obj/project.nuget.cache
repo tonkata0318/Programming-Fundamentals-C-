@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fg4XMmZTP2mSUiq9DmMCU5kiMEBBY40t7cff/qkxyd3PdQrH82qWU5BHKKvXLdlRcc3IoiH9q2wKqeQUB9jSbQ==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\Exercise Arrays\\04. Array Rotation\\04. Array Rotation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

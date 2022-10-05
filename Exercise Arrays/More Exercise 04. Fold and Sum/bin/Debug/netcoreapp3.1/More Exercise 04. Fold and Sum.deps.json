@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "More Exercise 04. Fold and Sum/1.0.0": {
+        "runtime": {
+          "More Exercise 04. Fold and Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "More Exercise 04. Fold and Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

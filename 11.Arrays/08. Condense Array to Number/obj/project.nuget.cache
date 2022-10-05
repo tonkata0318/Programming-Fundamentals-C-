@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XRvYBYJcc+e3QwDBxFYSVEnkKOQUpyzwTtoq0T21xlbPrDQfRgFn7PnbV8HZEcuW4p5aE8KeByDdaNCcBnYB0w==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\11.Arrays\\08. Condense Array to Number\\08. Condense Array to Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mxz8K9tnLz0F9cDXNO91/tm8++/LBtG9qGKq5IRlTERTWoKyUqiLAUd93UjVa5sVQWdVbnxAggtBntoPiTUWvA==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\Exercise Arrays\\02. Common Elements\\02. Common Elements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

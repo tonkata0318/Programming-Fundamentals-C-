@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hKoysp3KL/nUPSYReSwuQpotYvehI1cv2E5pbRLtulg0j00hwRTowWlZTP2RWc/4ufUqcU4n5TO7MivRY7UXgw==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\11.Arrays\\07. Equal Arrays\\07. Equal Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

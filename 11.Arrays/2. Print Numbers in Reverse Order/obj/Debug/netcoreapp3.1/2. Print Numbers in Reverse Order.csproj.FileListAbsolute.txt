@@ -1,0 +1,14 @@
+D:\programing fundamentals on c#\11.Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.exe
+D:\programing fundamentals on c#\11.Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.deps.json
+D:\programing fundamentals on c#\11.Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.runtimeconfig.json
+D:\programing fundamentals on c#\11.Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.runtimeconfig.dev.json
+D:\programing fundamentals on c#\11.Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.dll
+D:\programing fundamentals on c#\11.Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.pdb
+D:\programing fundamentals on c#\11.Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+D:\programing fundamentals on c#\11.Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing fundamentals on c#\11.Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+D:\programing fundamentals on c#\11.Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.AssemblyInfo.cs
+D:\programing fundamentals on c#\11.Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+D:\programing fundamentals on c#\11.Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.dll
+D:\programing fundamentals on c#\11.Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.pdb
+D:\programing fundamentals on c#\11.Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\2. Print Numbers in Reverse Order.genruntimeconfig.cache

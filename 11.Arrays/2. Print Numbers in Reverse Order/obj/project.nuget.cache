@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "79EDv2b6Bt3MHiPEbfMr+qVbyAlUj+SH7qiODEmCMEBO9QATZTNlCglElwbqk9+rK7YgGKcYH6dFCRgKujKjrg==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\11.Arrays\\2. Print Numbers in Reverse Order\\2. Print Numbers in Reverse Order.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

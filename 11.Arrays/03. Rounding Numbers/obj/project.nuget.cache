@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3gf0nB8iJ/MtJAmUeXhfgXr5p01kLMqO4SRJwP7nunpV5JOECJAZJzvjN9if33D6uoOUgXh4j6CDgDLf8D9Dsw==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\11.Arrays\\03. Rounding Numbers\\03. Rounding Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

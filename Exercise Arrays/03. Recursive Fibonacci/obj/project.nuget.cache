@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xhy/DrGWp52mruzpK2Qafdned1dGBgcFt9z0ZzMe0jwSsNOTRyozDj+Fe9UhYTWMG+BxpzcHaa7YsJMxOI7EKA==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\Exercise Arrays\\03. Recursive Fibonacci\\03. Recursive Fibonacci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

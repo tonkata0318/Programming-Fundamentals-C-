@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K8hKhrID2+T5iwhRbi6dR3+0FE07EuWho//+gaVjk7lPQPdC3Idfa4B/en4yinjXOrb2hZu7TGHFutn//Xe4CQ==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\Exercise Arrays\\07. Max Sequence of Equal Elements\\07. Max Sequence of Equal Elements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

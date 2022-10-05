@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EAA06AC9-62A2-4799-A645-16DB85F11641}"
+	ProjectSection(SolutionItems) = preProject
+		ColorBlocks.html = ColorBlocks.html
+		Fruits.html = Fruits.html
+		index.html = index.html
+		Lists.html = Lists.html
+		Style.css = Style.css
+		welcome.html = welcome.html
+		WikiPage.html = WikiPage.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBF4D2B1-281C-44FE-8E1F-3EB42F8E776A}
+	EndGlobalSection
+EndGlobal

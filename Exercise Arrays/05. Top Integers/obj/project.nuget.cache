@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TeAhX5d3omkxXEZxuaEJyDeu5yXXcAs+VOHCfYPF+zYilHraspveKh/2ZFV2L/q2WMf4G1AzyH4J0avYqn1v8Q==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\Exercise Arrays\\05. Top Integers\\05. Top Integers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

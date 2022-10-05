@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3WNob3V1IATFTg7T3Zbf+WK5R7tdKRSErQ7gxXTuJEHM6UF2ohC5shxvFsty/4k9f0x3WST5ou8cC2kY65yf1Q==",
+  "success": true,
+  "projectFilePath": "D:\\programing fundamentals on c#\\Exercise Arrays\\More Exercise 01. Encrypt, Sort and Print Array\\More Exercise 01. Encrypt, Sort and Print Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
