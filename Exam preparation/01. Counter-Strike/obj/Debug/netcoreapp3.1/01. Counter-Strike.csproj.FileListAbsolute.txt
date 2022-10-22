@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam preparation\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.exe
+D:\programming fundamentals with c#\Exam preparation\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.deps.json
+D:\programming fundamentals with c#\Exam preparation\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.runtimeconfig.json
+D:\programming fundamentals with c#\Exam preparation\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam preparation\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.dll
+D:\programming fundamentals with c#\Exam preparation\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.pdb
+D:\programming fundamentals with c#\Exam preparation\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam preparation\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam preparation\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam preparation\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam preparation\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam preparation\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.dll
+D:\programming fundamentals with c#\Exam preparation\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.pdb
+D:\programming fundamentals with c#\Exam preparation\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.genruntimeconfig.cache

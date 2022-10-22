@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam preparation\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.exe
+D:\programming fundamentals with c#\Exam preparation\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.deps.json
+D:\programming fundamentals with c#\Exam preparation\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.runtimeconfig.json
+D:\programming fundamentals with c#\Exam preparation\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam preparation\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.dll
+D:\programming fundamentals with c#\Exam preparation\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.pdb
+D:\programming fundamentals with c#\Exam preparation\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam preparation\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam preparation\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam preparation\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam preparation\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam preparation\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.dll
+D:\programming fundamentals with c#\Exam preparation\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.pdb
+D:\programming fundamentals with c#\Exam preparation\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.genruntimeconfig.cache

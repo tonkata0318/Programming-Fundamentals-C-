@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam preparation\02. Treasure Hunt\obj\Debug\netcoreapp3.1\02. Treasure Hunt.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam preparation\02. Treasure Hunt\obj\Debug\netcoreapp3.1\02. Treasure Hunt.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam preparation\02. Treasure Hunt\obj\Debug\netcoreapp3.1\02. Treasure Hunt.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam preparation\02. Treasure Hunt\obj\Debug\netcoreapp3.1\02. Treasure Hunt.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam preparation\02. Treasure Hunt\obj\Debug\netcoreapp3.1\02. Treasure Hunt.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam preparation\02. Treasure Hunt\bin\Debug\netcoreapp3.1\02. Treasure Hunt.exe
+D:\programming fundamentals with c#\Exam preparation\02. Treasure Hunt\bin\Debug\netcoreapp3.1\02. Treasure Hunt.deps.json
+D:\programming fundamentals with c#\Exam preparation\02. Treasure Hunt\bin\Debug\netcoreapp3.1\02. Treasure Hunt.runtimeconfig.json
+D:\programming fundamentals with c#\Exam preparation\02. Treasure Hunt\bin\Debug\netcoreapp3.1\02. Treasure Hunt.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam preparation\02. Treasure Hunt\bin\Debug\netcoreapp3.1\02. Treasure Hunt.dll
+D:\programming fundamentals with c#\Exam preparation\02. Treasure Hunt\bin\Debug\netcoreapp3.1\02. Treasure Hunt.pdb
+D:\programming fundamentals with c#\Exam preparation\02. Treasure Hunt\obj\Debug\netcoreapp3.1\02. Treasure Hunt.dll
+D:\programming fundamentals with c#\Exam preparation\02. Treasure Hunt\obj\Debug\netcoreapp3.1\02. Treasure Hunt.pdb
+D:\programming fundamentals with c#\Exam preparation\02. Treasure Hunt\obj\Debug\netcoreapp3.1\02. Treasure Hunt.genruntimeconfig.cache

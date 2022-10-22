@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - SoftUni Reception\bin\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.exe
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - SoftUni Reception\bin\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.deps.json
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - SoftUni Reception\bin\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.runtimeconfig.json
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - SoftUni Reception\bin\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - SoftUni Reception\bin\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.dll
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - SoftUni Reception\bin\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.pdb
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - SoftUni Reception\obj\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - SoftUni Reception\obj\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - SoftUni Reception\obj\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - SoftUni Reception\obj\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - SoftUni Reception\obj\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - SoftUni Reception\obj\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.dll
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - SoftUni Reception\obj\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.pdb
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - SoftUni Reception\obj\Debug\netcoreapp3.1\Problem 1 - SoftUni Reception.genruntimeconfig.cache

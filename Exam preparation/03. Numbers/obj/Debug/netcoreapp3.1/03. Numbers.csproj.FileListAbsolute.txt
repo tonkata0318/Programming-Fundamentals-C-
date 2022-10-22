@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam preparation\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.exe
+D:\programming fundamentals with c#\Exam preparation\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.deps.json
+D:\programming fundamentals with c#\Exam preparation\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.runtimeconfig.json
+D:\programming fundamentals with c#\Exam preparation\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam preparation\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.dll
+D:\programming fundamentals with c#\Exam preparation\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.pdb
+D:\programming fundamentals with c#\Exam preparation\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam preparation\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam preparation\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam preparation\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam preparation\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam preparation\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.dll
+D:\programming fundamentals with c#\Exam preparation\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.pdb
+D:\programming fundamentals with c#\Exam preparation\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.genruntimeconfig.cache

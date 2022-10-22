@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam preparation\03. Man O War\bin\Debug\netcoreapp3.1\03. Man O War.exe
+D:\programming fundamentals with c#\Exam preparation\03. Man O War\bin\Debug\netcoreapp3.1\03. Man O War.deps.json
+D:\programming fundamentals with c#\Exam preparation\03. Man O War\bin\Debug\netcoreapp3.1\03. Man O War.runtimeconfig.json
+D:\programming fundamentals with c#\Exam preparation\03. Man O War\bin\Debug\netcoreapp3.1\03. Man O War.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam preparation\03. Man O War\bin\Debug\netcoreapp3.1\03. Man O War.dll
+D:\programming fundamentals with c#\Exam preparation\03. Man O War\bin\Debug\netcoreapp3.1\03. Man O War.pdb
+D:\programming fundamentals with c#\Exam preparation\03. Man O War\obj\Debug\netcoreapp3.1\03. Man O War.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam preparation\03. Man O War\obj\Debug\netcoreapp3.1\03. Man O War.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam preparation\03. Man O War\obj\Debug\netcoreapp3.1\03. Man O War.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam preparation\03. Man O War\obj\Debug\netcoreapp3.1\03. Man O War.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam preparation\03. Man O War\obj\Debug\netcoreapp3.1\03. Man O War.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam preparation\03. Man O War\obj\Debug\netcoreapp3.1\03. Man O War.dll
+D:\programming fundamentals with c#\Exam preparation\03. Man O War\obj\Debug\netcoreapp3.1\03. Man O War.pdb
+D:\programming fundamentals with c#\Exam preparation\03. Man O War\obj\Debug\netcoreapp3.1\03. Man O War.genruntimeconfig.cache

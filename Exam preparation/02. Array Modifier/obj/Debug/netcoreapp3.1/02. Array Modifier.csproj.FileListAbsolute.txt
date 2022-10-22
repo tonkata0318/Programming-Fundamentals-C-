@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam preparation\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.exe
+D:\programming fundamentals with c#\Exam preparation\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.deps.json
+D:\programming fundamentals with c#\Exam preparation\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.runtimeconfig.json
+D:\programming fundamentals with c#\Exam preparation\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam preparation\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.dll
+D:\programming fundamentals with c#\Exam preparation\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.pdb
+D:\programming fundamentals with c#\Exam preparation\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam preparation\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam preparation\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam preparation\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam preparation\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam preparation\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.dll
+D:\programming fundamentals with c#\Exam preparation\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.pdb
+D:\programming fundamentals with c#\Exam preparation\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.genruntimeconfig.cache

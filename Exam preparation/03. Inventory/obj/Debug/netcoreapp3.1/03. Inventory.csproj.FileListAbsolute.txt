@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam preparation\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.exe
+D:\programming fundamentals with c#\Exam preparation\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.deps.json
+D:\programming fundamentals with c#\Exam preparation\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.runtimeconfig.json
+D:\programming fundamentals with c#\Exam preparation\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam preparation\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.dll
+D:\programming fundamentals with c#\Exam preparation\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.pdb
+D:\programming fundamentals with c#\Exam preparation\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam preparation\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam preparation\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam preparation\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam preparation\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam preparation\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.dll
+D:\programming fundamentals with c#\Exam preparation\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.pdb
+D:\programming fundamentals with c#\Exam preparation\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.genruntimeconfig.cache

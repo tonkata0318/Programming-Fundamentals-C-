@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - Computer Store\bin\Debug\netcoreapp3.1\Problem 1 - Computer Store.exe
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - Computer Store\bin\Debug\netcoreapp3.1\Problem 1 - Computer Store.deps.json
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - Computer Store\bin\Debug\netcoreapp3.1\Problem 1 - Computer Store.runtimeconfig.json
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - Computer Store\bin\Debug\netcoreapp3.1\Problem 1 - Computer Store.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - Computer Store\bin\Debug\netcoreapp3.1\Problem 1 - Computer Store.dll
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - Computer Store\bin\Debug\netcoreapp3.1\Problem 1 - Computer Store.pdb
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - Computer Store\obj\Debug\netcoreapp3.1\Problem 1 - Computer Store.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - Computer Store\obj\Debug\netcoreapp3.1\Problem 1 - Computer Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - Computer Store\obj\Debug\netcoreapp3.1\Problem 1 - Computer Store.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - Computer Store\obj\Debug\netcoreapp3.1\Problem 1 - Computer Store.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - Computer Store\obj\Debug\netcoreapp3.1\Problem 1 - Computer Store.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - Computer Store\obj\Debug\netcoreapp3.1\Problem 1 - Computer Store.dll
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - Computer Store\obj\Debug\netcoreapp3.1\Problem 1 - Computer Store.pdb
+D:\programming fundamentals with c#\Exam preparation\Problem 1 - Computer Store\obj\Debug\netcoreapp3.1\Problem 1 - Computer Store.genruntimeconfig.cache

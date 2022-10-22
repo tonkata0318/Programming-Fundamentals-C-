@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam preparation\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.exe
+D:\programming fundamentals with c#\Exam preparation\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.deps.json
+D:\programming fundamentals with c#\Exam preparation\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.runtimeconfig.json
+D:\programming fundamentals with c#\Exam preparation\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam preparation\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.dll
+D:\programming fundamentals with c#\Exam preparation\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.pdb
+D:\programming fundamentals with c#\Exam preparation\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam preparation\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam preparation\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam preparation\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam preparation\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam preparation\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.dll
+D:\programming fundamentals with c#\Exam preparation\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.pdb
+D:\programming fundamentals with c#\Exam preparation\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.genruntimeconfig.cache

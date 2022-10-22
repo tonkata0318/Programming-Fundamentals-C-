@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam preparation\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.exe
+D:\programming fundamentals with c#\Exam preparation\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.deps.json
+D:\programming fundamentals with c#\Exam preparation\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.runtimeconfig.json
+D:\programming fundamentals with c#\Exam preparation\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam preparation\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.dll
+D:\programming fundamentals with c#\Exam preparation\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.pdb
+D:\programming fundamentals with c#\Exam preparation\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam preparation\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam preparation\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam preparation\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam preparation\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam preparation\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.dll
+D:\programming fundamentals with c#\Exam preparation\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.pdb
+D:\programming fundamentals with c#\Exam preparation\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.genruntimeconfig.cache

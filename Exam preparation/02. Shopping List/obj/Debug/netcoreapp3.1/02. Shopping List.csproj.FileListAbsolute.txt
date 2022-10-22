@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam preparation\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam preparation\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam preparation\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam preparation\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam preparation\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam preparation\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.exe
+D:\programming fundamentals with c#\Exam preparation\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.deps.json
+D:\programming fundamentals with c#\Exam preparation\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.runtimeconfig.json
+D:\programming fundamentals with c#\Exam preparation\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam preparation\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.dll
+D:\programming fundamentals with c#\Exam preparation\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.pdb
+D:\programming fundamentals with c#\Exam preparation\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.dll
+D:\programming fundamentals with c#\Exam preparation\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.pdb
+D:\programming fundamentals with c#\Exam preparation\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.genruntimeconfig.cache
