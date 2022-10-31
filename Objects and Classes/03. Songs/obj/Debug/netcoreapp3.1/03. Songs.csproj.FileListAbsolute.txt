@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Objects and Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.exe
+D:\programming fundamentals with c#\Objects and Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.deps.json
+D:\programming fundamentals with c#\Objects and Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.runtimeconfig.json
+D:\programming fundamentals with c#\Objects and Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Objects and Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.dll
+D:\programming fundamentals with c#\Objects and Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.pdb
+D:\programming fundamentals with c#\Objects and Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Objects and Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Objects and Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Objects and Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.AssemblyInfo.cs
+D:\programming fundamentals with c#\Objects and Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Objects and Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.dll
+D:\programming fundamentals with c#\Objects and Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.pdb
+D:\programming fundamentals with c#\Objects and Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.genruntimeconfig.cache

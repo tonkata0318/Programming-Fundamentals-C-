@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\1. Advertisement Message\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.exe
+D:\programming fundamentals with c#\1. Advertisement Message\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.deps.json
+D:\programming fundamentals with c#\1. Advertisement Message\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.runtimeconfig.json
+D:\programming fundamentals with c#\1. Advertisement Message\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.runtimeconfig.dev.json
+D:\programming fundamentals with c#\1. Advertisement Message\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.dll
+D:\programming fundamentals with c#\1. Advertisement Message\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.pdb
+D:\programming fundamentals with c#\1. Advertisement Message\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\1. Advertisement Message\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\1. Advertisement Message\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\1. Advertisement Message\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.AssemblyInfo.cs
+D:\programming fundamentals with c#\1. Advertisement Message\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\1. Advertisement Message\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.dll
+D:\programming fundamentals with c#\1. Advertisement Message\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.pdb
+D:\programming fundamentals with c#\1. Advertisement Message\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.genruntimeconfig.cache

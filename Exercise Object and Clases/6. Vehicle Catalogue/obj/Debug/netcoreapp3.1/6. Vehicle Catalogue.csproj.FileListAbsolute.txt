@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exercise Object and Clases\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.exe
+D:\programming fundamentals with c#\Exercise Object and Clases\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.deps.json
+D:\programming fundamentals with c#\Exercise Object and Clases\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.runtimeconfig.json
+D:\programming fundamentals with c#\Exercise Object and Clases\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exercise Object and Clases\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.dll
+D:\programming fundamentals with c#\Exercise Object and Clases\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.pdb
+D:\programming fundamentals with c#\Exercise Object and Clases\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exercise Object and Clases\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exercise Object and Clases\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exercise Object and Clases\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exercise Object and Clases\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exercise Object and Clases\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.dll
+D:\programming fundamentals with c#\Exercise Object and Clases\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.pdb
+D:\programming fundamentals with c#\Exercise Object and Clases\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.genruntimeconfig.cache

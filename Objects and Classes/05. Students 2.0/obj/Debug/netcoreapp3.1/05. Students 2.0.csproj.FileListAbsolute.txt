@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Objects and Classes\05. Students 2.0\bin\Debug\netcoreapp3.1\05. Students 2.0.exe
+D:\programming fundamentals with c#\Objects and Classes\05. Students 2.0\bin\Debug\netcoreapp3.1\05. Students 2.0.deps.json
+D:\programming fundamentals with c#\Objects and Classes\05. Students 2.0\bin\Debug\netcoreapp3.1\05. Students 2.0.runtimeconfig.json
+D:\programming fundamentals with c#\Objects and Classes\05. Students 2.0\bin\Debug\netcoreapp3.1\05. Students 2.0.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Objects and Classes\05. Students 2.0\bin\Debug\netcoreapp3.1\05. Students 2.0.dll
+D:\programming fundamentals with c#\Objects and Classes\05. Students 2.0\bin\Debug\netcoreapp3.1\05. Students 2.0.pdb
+D:\programming fundamentals with c#\Objects and Classes\05. Students 2.0\obj\Debug\netcoreapp3.1\05. Students 2.0.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Objects and Classes\05. Students 2.0\obj\Debug\netcoreapp3.1\05. Students 2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Objects and Classes\05. Students 2.0\obj\Debug\netcoreapp3.1\05. Students 2.0.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Objects and Classes\05. Students 2.0\obj\Debug\netcoreapp3.1\05. Students 2.0.AssemblyInfo.cs
+D:\programming fundamentals with c#\Objects and Classes\05. Students 2.0\obj\Debug\netcoreapp3.1\05. Students 2.0.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Objects and Classes\05. Students 2.0\obj\Debug\netcoreapp3.1\05. Students 2.0.dll
+D:\programming fundamentals with c#\Objects and Classes\05. Students 2.0\obj\Debug\netcoreapp3.1\05. Students 2.0.pdb
+D:\programming fundamentals with c#\Objects and Classes\05. Students 2.0\obj\Debug\netcoreapp3.1\05. Students 2.0.genruntimeconfig.cache

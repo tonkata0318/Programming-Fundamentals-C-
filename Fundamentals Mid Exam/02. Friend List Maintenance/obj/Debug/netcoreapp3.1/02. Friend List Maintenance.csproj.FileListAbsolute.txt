@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Fundamentals Mid Exam\02. Friend List Maintenance\bin\Debug\netcoreapp3.1\02. Friend List Maintenance.exe
+D:\programming fundamentals with c#\Fundamentals Mid Exam\02. Friend List Maintenance\bin\Debug\netcoreapp3.1\02. Friend List Maintenance.deps.json
+D:\programming fundamentals with c#\Fundamentals Mid Exam\02. Friend List Maintenance\bin\Debug\netcoreapp3.1\02. Friend List Maintenance.runtimeconfig.json
+D:\programming fundamentals with c#\Fundamentals Mid Exam\02. Friend List Maintenance\bin\Debug\netcoreapp3.1\02. Friend List Maintenance.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Fundamentals Mid Exam\02. Friend List Maintenance\bin\Debug\netcoreapp3.1\02. Friend List Maintenance.dll
+D:\programming fundamentals with c#\Fundamentals Mid Exam\02. Friend List Maintenance\bin\Debug\netcoreapp3.1\02. Friend List Maintenance.pdb
+D:\programming fundamentals with c#\Fundamentals Mid Exam\02. Friend List Maintenance\obj\Debug\netcoreapp3.1\02. Friend List Maintenance.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Fundamentals Mid Exam\02. Friend List Maintenance\obj\Debug\netcoreapp3.1\02. Friend List Maintenance.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Fundamentals Mid Exam\02. Friend List Maintenance\obj\Debug\netcoreapp3.1\02. Friend List Maintenance.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Fundamentals Mid Exam\02. Friend List Maintenance\obj\Debug\netcoreapp3.1\02. Friend List Maintenance.AssemblyInfo.cs
+D:\programming fundamentals with c#\Fundamentals Mid Exam\02. Friend List Maintenance\obj\Debug\netcoreapp3.1\02. Friend List Maintenance.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Fundamentals Mid Exam\02. Friend List Maintenance\obj\Debug\netcoreapp3.1\02. Friend List Maintenance.dll
+D:\programming fundamentals with c#\Fundamentals Mid Exam\02. Friend List Maintenance\obj\Debug\netcoreapp3.1\02. Friend List Maintenance.pdb
+D:\programming fundamentals with c#\Fundamentals Mid Exam\02. Friend List Maintenance\obj\Debug\netcoreapp3.1\02. Friend List Maintenance.genruntimeconfig.cache

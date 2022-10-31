@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Objects and Classes\1. Randomize Words\bin\Debug\netcoreapp3.1\1. Randomize Words.exe
+D:\programming fundamentals with c#\Objects and Classes\1. Randomize Words\bin\Debug\netcoreapp3.1\1. Randomize Words.deps.json
+D:\programming fundamentals with c#\Objects and Classes\1. Randomize Words\bin\Debug\netcoreapp3.1\1. Randomize Words.runtimeconfig.json
+D:\programming fundamentals with c#\Objects and Classes\1. Randomize Words\bin\Debug\netcoreapp3.1\1. Randomize Words.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Objects and Classes\1. Randomize Words\bin\Debug\netcoreapp3.1\1. Randomize Words.dll
+D:\programming fundamentals with c#\Objects and Classes\1. Randomize Words\bin\Debug\netcoreapp3.1\1. Randomize Words.pdb
+D:\programming fundamentals with c#\Objects and Classes\1. Randomize Words\obj\Debug\netcoreapp3.1\1. Randomize Words.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Objects and Classes\1. Randomize Words\obj\Debug\netcoreapp3.1\1. Randomize Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Objects and Classes\1. Randomize Words\obj\Debug\netcoreapp3.1\1. Randomize Words.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Objects and Classes\1. Randomize Words\obj\Debug\netcoreapp3.1\1. Randomize Words.AssemblyInfo.cs
+D:\programming fundamentals with c#\Objects and Classes\1. Randomize Words\obj\Debug\netcoreapp3.1\1. Randomize Words.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Objects and Classes\1. Randomize Words\obj\Debug\netcoreapp3.1\1. Randomize Words.dll
+D:\programming fundamentals with c#\Objects and Classes\1. Randomize Words\obj\Debug\netcoreapp3.1\1. Randomize Words.pdb
+D:\programming fundamentals with c#\Objects and Classes\1. Randomize Words\obj\Debug\netcoreapp3.1\1. Randomize Words.genruntimeconfig.cache

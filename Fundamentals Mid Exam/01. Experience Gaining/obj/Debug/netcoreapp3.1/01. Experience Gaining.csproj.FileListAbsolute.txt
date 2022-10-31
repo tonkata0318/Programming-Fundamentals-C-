@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Fundamentals Mid Exam\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.exe
+D:\programming fundamentals with c#\Fundamentals Mid Exam\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.deps.json
+D:\programming fundamentals with c#\Fundamentals Mid Exam\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.runtimeconfig.json
+D:\programming fundamentals with c#\Fundamentals Mid Exam\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Fundamentals Mid Exam\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.dll
+D:\programming fundamentals with c#\Fundamentals Mid Exam\01. Experience Gaining\bin\Debug\netcoreapp3.1\01. Experience Gaining.pdb
+D:\programming fundamentals with c#\Fundamentals Mid Exam\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Fundamentals Mid Exam\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Fundamentals Mid Exam\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Fundamentals Mid Exam\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.AssemblyInfo.cs
+D:\programming fundamentals with c#\Fundamentals Mid Exam\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Fundamentals Mid Exam\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.dll
+D:\programming fundamentals with c#\Fundamentals Mid Exam\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.pdb
+D:\programming fundamentals with c#\Fundamentals Mid Exam\01. Experience Gaining\obj\Debug\netcoreapp3.1\01. Experience Gaining.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\1. Advertisement Message\1. Advertisement Message\bin\Debug\netcoreapp3.1\1. Advertisement Message.exe
+D:\programming fundamentals with c#\1. Advertisement Message\1. Advertisement Message\bin\Debug\netcoreapp3.1\1. Advertisement Message.deps.json
+D:\programming fundamentals with c#\1. Advertisement Message\1. Advertisement Message\bin\Debug\netcoreapp3.1\1. Advertisement Message.runtimeconfig.json
+D:\programming fundamentals with c#\1. Advertisement Message\1. Advertisement Message\bin\Debug\netcoreapp3.1\1. Advertisement Message.runtimeconfig.dev.json
+D:\programming fundamentals with c#\1. Advertisement Message\1. Advertisement Message\bin\Debug\netcoreapp3.1\1. Advertisement Message.dll
+D:\programming fundamentals with c#\1. Advertisement Message\1. Advertisement Message\bin\Debug\netcoreapp3.1\1. Advertisement Message.pdb
+D:\programming fundamentals with c#\1. Advertisement Message\1. Advertisement Message\obj\Debug\netcoreapp3.1\1. Advertisement Message.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\1. Advertisement Message\1. Advertisement Message\obj\Debug\netcoreapp3.1\1. Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\1. Advertisement Message\1. Advertisement Message\obj\Debug\netcoreapp3.1\1. Advertisement Message.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\1. Advertisement Message\1. Advertisement Message\obj\Debug\netcoreapp3.1\1. Advertisement Message.AssemblyInfo.cs
+D:\programming fundamentals with c#\1. Advertisement Message\1. Advertisement Message\obj\Debug\netcoreapp3.1\1. Advertisement Message.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\1. Advertisement Message\1. Advertisement Message\obj\Debug\netcoreapp3.1\1. Advertisement Message.dll
+D:\programming fundamentals with c#\1. Advertisement Message\1. Advertisement Message\obj\Debug\netcoreapp3.1\1. Advertisement Message.pdb
+D:\programming fundamentals with c#\1. Advertisement Message\1. Advertisement Message\obj\Debug\netcoreapp3.1\1. Advertisement Message.genruntimeconfig.cache

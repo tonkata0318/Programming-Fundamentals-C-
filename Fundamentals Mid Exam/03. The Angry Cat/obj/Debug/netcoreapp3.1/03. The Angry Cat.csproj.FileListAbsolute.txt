@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Fundamentals Mid Exam\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.exe
+D:\programming fundamentals with c#\Fundamentals Mid Exam\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.deps.json
+D:\programming fundamentals with c#\Fundamentals Mid Exam\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.runtimeconfig.json
+D:\programming fundamentals with c#\Fundamentals Mid Exam\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Fundamentals Mid Exam\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.dll
+D:\programming fundamentals with c#\Fundamentals Mid Exam\03. The Angry Cat\bin\Debug\netcoreapp3.1\03. The Angry Cat.pdb
+D:\programming fundamentals with c#\Fundamentals Mid Exam\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Fundamentals Mid Exam\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Fundamentals Mid Exam\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Fundamentals Mid Exam\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.AssemblyInfo.cs
+D:\programming fundamentals with c#\Fundamentals Mid Exam\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Fundamentals Mid Exam\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.dll
+D:\programming fundamentals with c#\Fundamentals Mid Exam\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.pdb
+D:\programming fundamentals with c#\Fundamentals Mid Exam\03. The Angry Cat\obj\Debug\netcoreapp3.1\03. The Angry Cat.genruntimeconfig.cache
