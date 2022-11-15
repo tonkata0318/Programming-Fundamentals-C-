@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Lab Strings and Text Processing\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.exe
+D:\programming fundamentals with c#\Lab Strings and Text Processing\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.deps.json
+D:\programming fundamentals with c#\Lab Strings and Text Processing\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.runtimeconfig.json
+D:\programming fundamentals with c#\Lab Strings and Text Processing\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Lab Strings and Text Processing\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.dll
+D:\programming fundamentals with c#\Lab Strings and Text Processing\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.pdb
+D:\programming fundamentals with c#\Lab Strings and Text Processing\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Lab Strings and Text Processing\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Lab Strings and Text Processing\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Lab Strings and Text Processing\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.AssemblyInfo.cs
+D:\programming fundamentals with c#\Lab Strings and Text Processing\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Lab Strings and Text Processing\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.dll
+D:\programming fundamentals with c#\Lab Strings and Text Processing\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.pdb
+D:\programming fundamentals with c#\Lab Strings and Text Processing\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.genruntimeconfig.cache

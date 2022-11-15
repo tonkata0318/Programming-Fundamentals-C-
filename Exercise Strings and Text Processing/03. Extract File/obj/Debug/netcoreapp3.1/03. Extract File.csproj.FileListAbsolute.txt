@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.exe
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.deps.json
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.json
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.dll
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.pdb
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.dll
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.pdb
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.genruntimeconfig.cache

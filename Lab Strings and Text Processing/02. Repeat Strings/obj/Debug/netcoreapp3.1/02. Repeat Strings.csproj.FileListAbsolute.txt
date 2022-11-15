@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Lab Strings and Text Processing\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.exe
+D:\programming fundamentals with c#\Lab Strings and Text Processing\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.deps.json
+D:\programming fundamentals with c#\Lab Strings and Text Processing\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.runtimeconfig.json
+D:\programming fundamentals with c#\Lab Strings and Text Processing\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Lab Strings and Text Processing\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.dll
+D:\programming fundamentals with c#\Lab Strings and Text Processing\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.pdb
+D:\programming fundamentals with c#\Lab Strings and Text Processing\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Lab Strings and Text Processing\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Lab Strings and Text Processing\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Lab Strings and Text Processing\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.AssemblyInfo.cs
+D:\programming fundamentals with c#\Lab Strings and Text Processing\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Lab Strings and Text Processing\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.dll
+D:\programming fundamentals with c#\Lab Strings and Text Processing\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.pdb
+D:\programming fundamentals with c#\Lab Strings and Text Processing\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Lab Strings and Text Processing\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.exe
+D:\programming fundamentals with c#\Lab Strings and Text Processing\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.deps.json
+D:\programming fundamentals with c#\Lab Strings and Text Processing\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.runtimeconfig.json
+D:\programming fundamentals with c#\Lab Strings and Text Processing\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Lab Strings and Text Processing\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.dll
+D:\programming fundamentals with c#\Lab Strings and Text Processing\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.pdb
+D:\programming fundamentals with c#\Lab Strings and Text Processing\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Lab Strings and Text Processing\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Lab Strings and Text Processing\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Lab Strings and Text Processing\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.AssemblyInfo.cs
+D:\programming fundamentals with c#\Lab Strings and Text Processing\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Lab Strings and Text Processing\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.dll
+D:\programming fundamentals with c#\Lab Strings and Text Processing\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.pdb
+D:\programming fundamentals with c#\Lab Strings and Text Processing\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.genruntimeconfig.cache

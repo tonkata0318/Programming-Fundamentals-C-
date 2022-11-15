@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\1. Valid Usernames\obj\Debug\netcoreapp3.1\1. Valid Usernames.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\1. Valid Usernames\obj\Debug\netcoreapp3.1\1. Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\1. Valid Usernames\obj\Debug\netcoreapp3.1\1. Valid Usernames.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\1. Valid Usernames\obj\Debug\netcoreapp3.1\1. Valid Usernames.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\1. Valid Usernames\obj\Debug\netcoreapp3.1\1. Valid Usernames.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\1. Valid Usernames\bin\Debug\netcoreapp3.1\1. Valid Usernames.exe
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\1. Valid Usernames\bin\Debug\netcoreapp3.1\1. Valid Usernames.deps.json
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\1. Valid Usernames\bin\Debug\netcoreapp3.1\1. Valid Usernames.runtimeconfig.json
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\1. Valid Usernames\bin\Debug\netcoreapp3.1\1. Valid Usernames.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\1. Valid Usernames\bin\Debug\netcoreapp3.1\1. Valid Usernames.dll
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\1. Valid Usernames\bin\Debug\netcoreapp3.1\1. Valid Usernames.pdb
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\1. Valid Usernames\obj\Debug\netcoreapp3.1\1. Valid Usernames.dll
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\1. Valid Usernames\obj\Debug\netcoreapp3.1\1. Valid Usernames.pdb
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\1. Valid Usernames\obj\Debug\netcoreapp3.1\1. Valid Usernames.genruntimeconfig.cache

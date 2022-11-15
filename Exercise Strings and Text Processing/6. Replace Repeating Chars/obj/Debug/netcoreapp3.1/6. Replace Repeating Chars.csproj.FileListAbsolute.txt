@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\6. Replace Repeating Chars\bin\Debug\netcoreapp3.1\6. Replace Repeating Chars.exe
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\6. Replace Repeating Chars\bin\Debug\netcoreapp3.1\6. Replace Repeating Chars.deps.json
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\6. Replace Repeating Chars\bin\Debug\netcoreapp3.1\6. Replace Repeating Chars.runtimeconfig.json
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\6. Replace Repeating Chars\bin\Debug\netcoreapp3.1\6. Replace Repeating Chars.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\6. Replace Repeating Chars\bin\Debug\netcoreapp3.1\6. Replace Repeating Chars.dll
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\6. Replace Repeating Chars\bin\Debug\netcoreapp3.1\6. Replace Repeating Chars.pdb
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\6. Replace Repeating Chars\obj\Debug\netcoreapp3.1\6. Replace Repeating Chars.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\6. Replace Repeating Chars\obj\Debug\netcoreapp3.1\6. Replace Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\6. Replace Repeating Chars\obj\Debug\netcoreapp3.1\6. Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\6. Replace Repeating Chars\obj\Debug\netcoreapp3.1\6. Replace Repeating Chars.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\6. Replace Repeating Chars\obj\Debug\netcoreapp3.1\6. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\6. Replace Repeating Chars\obj\Debug\netcoreapp3.1\6. Replace Repeating Chars.dll
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\6. Replace Repeating Chars\obj\Debug\netcoreapp3.1\6. Replace Repeating Chars.pdb
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\6. Replace Repeating Chars\obj\Debug\netcoreapp3.1\6. Replace Repeating Chars.genruntimeconfig.cache

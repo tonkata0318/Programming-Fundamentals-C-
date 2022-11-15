@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exercise Associative Arrays\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.exe
+D:\programming fundamentals with c#\Exercise Associative Arrays\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.deps.json
+D:\programming fundamentals with c#\Exercise Associative Arrays\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.runtimeconfig.json
+D:\programming fundamentals with c#\Exercise Associative Arrays\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exercise Associative Arrays\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.dll
+D:\programming fundamentals with c#\Exercise Associative Arrays\06. Student Academy\bin\Debug\netcoreapp3.1\06. Student Academy.pdb
+D:\programming fundamentals with c#\Exercise Associative Arrays\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exercise Associative Arrays\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exercise Associative Arrays\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exercise Associative Arrays\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exercise Associative Arrays\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exercise Associative Arrays\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.dll
+D:\programming fundamentals with c#\Exercise Associative Arrays\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.pdb
+D:\programming fundamentals with c#\Exercise Associative Arrays\06. Student Academy\obj\Debug\netcoreapp3.1\06. Student Academy.genruntimeconfig.cache

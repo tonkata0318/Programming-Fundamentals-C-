@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exercise Associative Arrays\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.exe
+D:\programming fundamentals with c#\Exercise Associative Arrays\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.deps.json
+D:\programming fundamentals with c#\Exercise Associative Arrays\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.runtimeconfig.json
+D:\programming fundamentals with c#\Exercise Associative Arrays\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exercise Associative Arrays\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.dll
+D:\programming fundamentals with c#\Exercise Associative Arrays\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.pdb
+D:\programming fundamentals with c#\Exercise Associative Arrays\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exercise Associative Arrays\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exercise Associative Arrays\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exercise Associative Arrays\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exercise Associative Arrays\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exercise Associative Arrays\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.dll
+D:\programming fundamentals with c#\Exercise Associative Arrays\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.pdb
+D:\programming fundamentals with c#\Exercise Associative Arrays\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.genruntimeconfig.cache

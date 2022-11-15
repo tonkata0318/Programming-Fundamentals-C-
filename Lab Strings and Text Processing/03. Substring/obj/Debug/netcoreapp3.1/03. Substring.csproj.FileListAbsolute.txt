@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Lab Strings and Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.exe
+D:\programming fundamentals with c#\Lab Strings and Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.deps.json
+D:\programming fundamentals with c#\Lab Strings and Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.json
+D:\programming fundamentals with c#\Lab Strings and Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Lab Strings and Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.dll
+D:\programming fundamentals with c#\Lab Strings and Text Processing\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.pdb
+D:\programming fundamentals with c#\Lab Strings and Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Lab Strings and Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Lab Strings and Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Lab Strings and Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfo.cs
+D:\programming fundamentals with c#\Lab Strings and Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Lab Strings and Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.dll
+D:\programming fundamentals with c#\Lab Strings and Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.pdb
+D:\programming fundamentals with c#\Lab Strings and Text Processing\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.genruntimeconfig.cache

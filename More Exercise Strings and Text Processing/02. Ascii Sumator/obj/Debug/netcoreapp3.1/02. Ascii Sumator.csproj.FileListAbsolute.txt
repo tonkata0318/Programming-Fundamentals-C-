@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.exe
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.deps.json
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.runtimeconfig.json
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.runtimeconfig.dev.json
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.dll
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.pdb
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.AssemblyInfo.cs
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.dll
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.pdb
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.genruntimeconfig.cache

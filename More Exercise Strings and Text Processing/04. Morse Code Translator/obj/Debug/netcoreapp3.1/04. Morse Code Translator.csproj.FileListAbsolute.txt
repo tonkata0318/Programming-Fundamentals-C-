@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.exe
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.deps.json
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.runtimeconfig.json
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.runtimeconfig.dev.json
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.dll
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.pdb
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.AssemblyInfo.cs
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.dll
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.pdb
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.exe
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.deps.json
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.runtimeconfig.json
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.runtimeconfig.dev.json
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.dll
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\1. Extract Person Information\bin\Debug\netcoreapp3.1\1. Extract Person Information.pdb
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.AssemblyInfo.cs
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.dll
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.pdb
+D:\programming fundamentals with c#\More Exercise Strings and Text Processing\1. Extract Person Information\obj\Debug\netcoreapp3.1\1. Extract Person Information.genruntimeconfig.cache

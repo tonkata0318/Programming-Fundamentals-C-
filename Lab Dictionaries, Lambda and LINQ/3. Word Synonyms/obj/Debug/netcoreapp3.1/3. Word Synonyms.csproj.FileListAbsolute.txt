@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\3. Word Synonyms\bin\Debug\netcoreapp3.1\3. Word Synonyms.exe
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\3. Word Synonyms\bin\Debug\netcoreapp3.1\3. Word Synonyms.deps.json
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\3. Word Synonyms\bin\Debug\netcoreapp3.1\3. Word Synonyms.runtimeconfig.json
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\3. Word Synonyms\bin\Debug\netcoreapp3.1\3. Word Synonyms.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\3. Word Synonyms\bin\Debug\netcoreapp3.1\3. Word Synonyms.dll
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\3. Word Synonyms\bin\Debug\netcoreapp3.1\3. Word Synonyms.pdb
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\netcoreapp3.1\3. Word Synonyms.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\netcoreapp3.1\3. Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\netcoreapp3.1\3. Word Synonyms.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\netcoreapp3.1\3. Word Synonyms.AssemblyInfo.cs
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\netcoreapp3.1\3. Word Synonyms.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\netcoreapp3.1\3. Word Synonyms.dll
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\netcoreapp3.1\3. Word Synonyms.pdb
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\3. Word Synonyms\obj\Debug\netcoreapp3.1\3. Word Synonyms.genruntimeconfig.cache

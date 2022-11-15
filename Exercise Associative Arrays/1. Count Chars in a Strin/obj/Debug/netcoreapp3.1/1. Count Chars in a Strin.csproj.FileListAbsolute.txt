@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exercise Associative Arrays\1. Count Chars in a Strin\bin\Debug\netcoreapp3.1\1. Count Chars in a Strin.exe
+D:\programming fundamentals with c#\Exercise Associative Arrays\1. Count Chars in a Strin\bin\Debug\netcoreapp3.1\1. Count Chars in a Strin.deps.json
+D:\programming fundamentals with c#\Exercise Associative Arrays\1. Count Chars in a Strin\bin\Debug\netcoreapp3.1\1. Count Chars in a Strin.runtimeconfig.json
+D:\programming fundamentals with c#\Exercise Associative Arrays\1. Count Chars in a Strin\bin\Debug\netcoreapp3.1\1. Count Chars in a Strin.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exercise Associative Arrays\1. Count Chars in a Strin\bin\Debug\netcoreapp3.1\1. Count Chars in a Strin.dll
+D:\programming fundamentals with c#\Exercise Associative Arrays\1. Count Chars in a Strin\bin\Debug\netcoreapp3.1\1. Count Chars in a Strin.pdb
+D:\programming fundamentals with c#\Exercise Associative Arrays\1. Count Chars in a Strin\obj\Debug\netcoreapp3.1\1. Count Chars in a Strin.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exercise Associative Arrays\1. Count Chars in a Strin\obj\Debug\netcoreapp3.1\1. Count Chars in a Strin.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exercise Associative Arrays\1. Count Chars in a Strin\obj\Debug\netcoreapp3.1\1. Count Chars in a Strin.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exercise Associative Arrays\1. Count Chars in a Strin\obj\Debug\netcoreapp3.1\1. Count Chars in a Strin.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exercise Associative Arrays\1. Count Chars in a Strin\obj\Debug\netcoreapp3.1\1. Count Chars in a Strin.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exercise Associative Arrays\1. Count Chars in a Strin\obj\Debug\netcoreapp3.1\1. Count Chars in a Strin.dll
+D:\programming fundamentals with c#\Exercise Associative Arrays\1. Count Chars in a Strin\obj\Debug\netcoreapp3.1\1. Count Chars in a Strin.pdb
+D:\programming fundamentals with c#\Exercise Associative Arrays\1. Count Chars in a Strin\obj\Debug\netcoreapp3.1\1. Count Chars in a Strin.genruntimeconfig.cache

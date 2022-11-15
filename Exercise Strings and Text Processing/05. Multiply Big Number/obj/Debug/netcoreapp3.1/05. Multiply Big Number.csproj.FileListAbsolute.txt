@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.exe
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.deps.json
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.runtimeconfig.json
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.dll
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.pdb
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.dll
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.pdb
+D:\programming fundamentals with c#\Exercise Strings and Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.genruntimeconfig.cache

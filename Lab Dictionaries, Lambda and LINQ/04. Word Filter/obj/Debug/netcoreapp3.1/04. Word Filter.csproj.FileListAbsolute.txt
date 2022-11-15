@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.exe
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.deps.json
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.runtimeconfig.json
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.dll
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.pdb
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.AssemblyInfo.cs
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.dll
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.pdb
+D:\programming fundamentals with c#\Lab Dictionaries, Lambda and LINQ\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\More Exercise Associative Array\1. Ranking\bin\Debug\netcoreapp3.1\1. Ranking.exe
+D:\programming fundamentals with c#\More Exercise Associative Array\1. Ranking\bin\Debug\netcoreapp3.1\1. Ranking.deps.json
+D:\programming fundamentals with c#\More Exercise Associative Array\1. Ranking\bin\Debug\netcoreapp3.1\1. Ranking.runtimeconfig.json
+D:\programming fundamentals with c#\More Exercise Associative Array\1. Ranking\bin\Debug\netcoreapp3.1\1. Ranking.runtimeconfig.dev.json
+D:\programming fundamentals with c#\More Exercise Associative Array\1. Ranking\bin\Debug\netcoreapp3.1\1. Ranking.dll
+D:\programming fundamentals with c#\More Exercise Associative Array\1. Ranking\bin\Debug\netcoreapp3.1\1. Ranking.pdb
+D:\programming fundamentals with c#\More Exercise Associative Array\1. Ranking\obj\Debug\netcoreapp3.1\1. Ranking.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\More Exercise Associative Array\1. Ranking\obj\Debug\netcoreapp3.1\1. Ranking.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\More Exercise Associative Array\1. Ranking\obj\Debug\netcoreapp3.1\1. Ranking.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\More Exercise Associative Array\1. Ranking\obj\Debug\netcoreapp3.1\1. Ranking.AssemblyInfo.cs
+D:\programming fundamentals with c#\More Exercise Associative Array\1. Ranking\obj\Debug\netcoreapp3.1\1. Ranking.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\More Exercise Associative Array\1. Ranking\obj\Debug\netcoreapp3.1\1. Ranking.dll
+D:\programming fundamentals with c#\More Exercise Associative Array\1. Ranking\obj\Debug\netcoreapp3.1\1. Ranking.pdb
+D:\programming fundamentals with c#\More Exercise Associative Array\1. Ranking\obj\Debug\netcoreapp3.1\1. Ranking.genruntimeconfig.cache
