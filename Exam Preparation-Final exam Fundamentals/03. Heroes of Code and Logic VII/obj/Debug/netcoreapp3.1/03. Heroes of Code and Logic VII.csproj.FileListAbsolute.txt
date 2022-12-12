@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.exe
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.deps.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.runtimeconfig.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.genruntimeconfig.cache

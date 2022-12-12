@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\04. Santa's New List\bin\Debug\netcoreapp3.1\04. Santa's New List.exe
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\04. Santa's New List\bin\Debug\netcoreapp3.1\04. Santa's New List.deps.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\04. Santa's New List\bin\Debug\netcoreapp3.1\04. Santa's New List.runtimeconfig.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\04. Santa's New List\bin\Debug\netcoreapp3.1\04. Santa's New List.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\04. Santa's New List\bin\Debug\netcoreapp3.1\04. Santa's New List.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\04. Santa's New List\bin\Debug\netcoreapp3.1\04. Santa's New List.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\04. Santa's New List\obj\Debug\netcoreapp3.1\04. Santa's New List.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\04. Santa's New List\obj\Debug\netcoreapp3.1\04. Santa's New List.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\04. Santa's New List\obj\Debug\netcoreapp3.1\04. Santa's New List.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\04. Santa's New List\obj\Debug\netcoreapp3.1\04. Santa's New List.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\04. Santa's New List\obj\Debug\netcoreapp3.1\04. Santa's New List.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\04. Santa's New List\obj\Debug\netcoreapp3.1\04. Santa's New List.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\04. Santa's New List\obj\Debug\netcoreapp3.1\04. Santa's New List.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\04. Santa's New List\obj\Debug\netcoreapp3.1\04. Santa's New List.genruntimeconfig.cache

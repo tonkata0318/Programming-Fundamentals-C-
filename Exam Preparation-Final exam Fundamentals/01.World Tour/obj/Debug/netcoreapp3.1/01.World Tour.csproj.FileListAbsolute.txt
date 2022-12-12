@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01.World Tour\bin\Debug\netcoreapp3.1\01.World Tour.exe
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01.World Tour\bin\Debug\netcoreapp3.1\01.World Tour.deps.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01.World Tour\bin\Debug\netcoreapp3.1\01.World Tour.runtimeconfig.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01.World Tour\bin\Debug\netcoreapp3.1\01.World Tour.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01.World Tour\bin\Debug\netcoreapp3.1\01.World Tour.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01.World Tour\bin\Debug\netcoreapp3.1\01.World Tour.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01.World Tour\obj\Debug\netcoreapp3.1\01.World Tour.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01.World Tour\obj\Debug\netcoreapp3.1\01.World Tour.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01.World Tour\obj\Debug\netcoreapp3.1\01.World Tour.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01.World Tour\obj\Debug\netcoreapp3.1\01.World Tour.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01.World Tour\obj\Debug\netcoreapp3.1\01.World Tour.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01.World Tour\obj\Debug\netcoreapp3.1\01.World Tour.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01.World Tour\obj\Debug\netcoreapp3.1\01.World Tour.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01.World Tour\obj\Debug\netcoreapp3.1\01.World Tour.genruntimeconfig.cache

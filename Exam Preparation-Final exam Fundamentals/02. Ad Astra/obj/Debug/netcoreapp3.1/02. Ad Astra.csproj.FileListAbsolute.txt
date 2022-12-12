@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.exe
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.deps.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.runtimeconfig.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.genruntimeconfig.cache

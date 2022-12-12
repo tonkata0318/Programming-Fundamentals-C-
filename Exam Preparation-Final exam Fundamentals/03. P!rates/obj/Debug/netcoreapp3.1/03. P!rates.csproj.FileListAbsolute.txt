@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.exe
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.deps.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.runtimeconfig.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.genruntimeconfig.cache

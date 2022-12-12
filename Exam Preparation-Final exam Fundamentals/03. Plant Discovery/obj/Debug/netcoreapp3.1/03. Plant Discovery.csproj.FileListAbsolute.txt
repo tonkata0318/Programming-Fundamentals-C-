@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.exe
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.deps.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.runtimeconfig.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.genruntimeconfig.cache

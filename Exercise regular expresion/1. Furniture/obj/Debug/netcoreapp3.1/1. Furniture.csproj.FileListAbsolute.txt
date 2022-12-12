@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\1. Furniture\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.exe
+D:\programming fundamentals with c#\1. Furniture\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.deps.json
+D:\programming fundamentals with c#\1. Furniture\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.runtimeconfig.json
+D:\programming fundamentals with c#\1. Furniture\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.runtimeconfig.dev.json
+D:\programming fundamentals with c#\1. Furniture\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.dll
+D:\programming fundamentals with c#\1. Furniture\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.pdb
+D:\programming fundamentals with c#\1. Furniture\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\1. Furniture\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\1. Furniture\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\1. Furniture\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.AssemblyInfo.cs
+D:\programming fundamentals with c#\1. Furniture\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\1. Furniture\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.dll
+D:\programming fundamentals with c#\1. Furniture\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.pdb
+D:\programming fundamentals with c#\1. Furniture\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.genruntimeconfig.cache

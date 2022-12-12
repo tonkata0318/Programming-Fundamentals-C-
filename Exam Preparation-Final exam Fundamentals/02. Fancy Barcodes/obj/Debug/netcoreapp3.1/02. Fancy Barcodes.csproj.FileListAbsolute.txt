@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.exe
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.deps.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.genruntimeconfig.cache

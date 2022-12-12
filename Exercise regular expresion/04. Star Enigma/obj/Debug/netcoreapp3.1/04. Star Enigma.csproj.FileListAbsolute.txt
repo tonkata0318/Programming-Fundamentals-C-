@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\1. Furniture\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.exe
+D:\programming fundamentals with c#\1. Furniture\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.deps.json
+D:\programming fundamentals with c#\1. Furniture\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.runtimeconfig.json
+D:\programming fundamentals with c#\1. Furniture\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.runtimeconfig.dev.json
+D:\programming fundamentals with c#\1. Furniture\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.dll
+D:\programming fundamentals with c#\1. Furniture\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.pdb
+D:\programming fundamentals with c#\1. Furniture\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\1. Furniture\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\1. Furniture\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\1. Furniture\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.AssemblyInfo.cs
+D:\programming fundamentals with c#\1. Furniture\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\1. Furniture\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.dll
+D:\programming fundamentals with c#\1. Furniture\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.pdb
+D:\programming fundamentals with c#\1. Furniture\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.genruntimeconfig.cache

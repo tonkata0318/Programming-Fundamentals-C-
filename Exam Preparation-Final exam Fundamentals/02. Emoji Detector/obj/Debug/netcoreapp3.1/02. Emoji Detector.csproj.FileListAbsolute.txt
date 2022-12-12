@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.exe
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.deps.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.runtimeconfig.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.genruntimeconfig.cache

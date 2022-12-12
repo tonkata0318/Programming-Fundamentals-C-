@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\Problem 1 – Secret Chat\bin\Debug\netcoreapp3.1\01. The Imitation Game.exe
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\Problem 1 – Secret Chat\bin\Debug\netcoreapp3.1\01. The Imitation Game.deps.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\Problem 1 – Secret Chat\bin\Debug\netcoreapp3.1\01. The Imitation Game.runtimeconfig.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\Problem 1 – Secret Chat\bin\Debug\netcoreapp3.1\01. The Imitation Game.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\Problem 1 – Secret Chat\bin\Debug\netcoreapp3.1\01. The Imitation Game.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\Problem 1 – Secret Chat\bin\Debug\netcoreapp3.1\01. The Imitation Game.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\Problem 1 – Secret Chat\obj\Debug\netcoreapp3.1\01. The Imitation Game.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\Problem 1 – Secret Chat\obj\Debug\netcoreapp3.1\01. The Imitation Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\Problem 1 – Secret Chat\obj\Debug\netcoreapp3.1\01. The Imitation Game.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\Problem 1 – Secret Chat\obj\Debug\netcoreapp3.1\01. The Imitation Game.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\Problem 1 – Secret Chat\obj\Debug\netcoreapp3.1\01. The Imitation Game.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\Problem 1 – Secret Chat\obj\Debug\netcoreapp3.1\01. The Imitation Game.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\Problem 1 – Secret Chat\obj\Debug\netcoreapp3.1\01. The Imitation Game.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\Problem 1 – Secret Chat\obj\Debug\netcoreapp3.1\01. The Imitation Game.genruntimeconfig.cache

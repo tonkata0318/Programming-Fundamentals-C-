@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.exe
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.deps.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.runtimeconfig.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.genruntimeconfig.cache

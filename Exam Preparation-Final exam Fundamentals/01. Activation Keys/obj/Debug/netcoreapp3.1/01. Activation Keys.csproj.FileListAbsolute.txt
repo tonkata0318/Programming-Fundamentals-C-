@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.exe
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.deps.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfo.cs
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.dll
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.pdb
+D:\programming fundamentals with c#\Exam Preparation-Final exam Fundamentals\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.genruntimeconfig.cache

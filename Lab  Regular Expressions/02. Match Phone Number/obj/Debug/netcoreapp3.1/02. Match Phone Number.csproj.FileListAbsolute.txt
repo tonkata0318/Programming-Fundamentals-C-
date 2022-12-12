@@ -1,0 +1,14 @@
+D:\programming fundamentals with c#\Lab  Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.exe
+D:\programming fundamentals with c#\Lab  Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.deps.json
+D:\programming fundamentals with c#\Lab  Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.runtimeconfig.json
+D:\programming fundamentals with c#\Lab  Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.runtimeconfig.dev.json
+D:\programming fundamentals with c#\Lab  Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.dll
+D:\programming fundamentals with c#\Lab  Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.pdb
+D:\programming fundamentals with c#\Lab  Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.csproj.AssemblyReference.cache
+D:\programming fundamentals with c#\Lab  Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming fundamentals with c#\Lab  Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.AssemblyInfoInputs.cache
+D:\programming fundamentals with c#\Lab  Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.AssemblyInfo.cs
+D:\programming fundamentals with c#\Lab  Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.csproj.CoreCompileInputs.cache
+D:\programming fundamentals with c#\Lab  Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.dll
+D:\programming fundamentals with c#\Lab  Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.pdb
+D:\programming fundamentals with c#\Lab  Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.genruntimeconfig.cache
